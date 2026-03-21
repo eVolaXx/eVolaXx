@@ -1,13 +1,16 @@
 ## Hi, I am Juan Carlos. Systems Engineer 👋
 🔭 I’m currently working on Indra, Spain
-Java Developer
 
+- Linkedin: https://www.linkedin.com/in/jgc-dev/
 
 ## Github Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eVolaXx&theme=highcontrast)](https://git.io/streak-stats)
 
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eVolaXx)](https://github.com/eVolaXx/github-readme-stats)
+
+Top Languages:
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=eVolaXx&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
 
 <!--
 **eVolaXx/eVolaXx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
