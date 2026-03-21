@@ -1,11 +1,19 @@
-## Hi there 👋
+## Hi, I am Juan Carlos. Systems Engineer 👋
+🔭 I’m currently working on Indra, Spain
+Java Developer
+
+
+## Github Stats:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eVolaXx&theme=highcontrast)](https://git.io/streak-stats)
+
+Lenguajes:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eVolaXx)](https://github.com/eVolaXx/github-readme-stats)
 
 <!--
 **eVolaXx/eVolaXx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
