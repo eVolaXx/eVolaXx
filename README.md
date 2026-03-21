@@ -8,7 +8,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eVolaXx)](https://github.com/eVolaXx/github-readme-stats)
 
-Top Languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eVolaXx)](https://github.com/anuraghazra/github-readme-stats)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=eVolaXx&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 
