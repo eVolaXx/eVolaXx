@@ -6,7 +6,7 @@ Java Developer
 ## Github Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eVolaXx&theme=highcontrast)](https://git.io/streak-stats)
 
-Lenguajes:
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eVolaXx)](https://github.com/eVolaXx/github-readme-stats)
 
 <!--
