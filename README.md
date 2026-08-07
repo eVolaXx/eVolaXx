@@ -1,7 +1,4 @@
 ## Hi, I am Juan Carlos. Java Developer Systems Engineer 👋
-🔭 I’m currently working on Indra, Spain
-
-- Linkedin: https://www.linkedin.com/in/juan-carlos-g-2a5892427?utm_source=share_via&utm_content=profile&utm_medium=member_ios
 
 ## Github Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eVolaXx&theme=highcontrast)](https://git.io/streak-stats)
