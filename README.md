@@ -1,4 +1,4 @@
-## Hi, I am Juan Carlos. Java Developer Systems Engineer 👋
+## Hi, I am Juan Carlos. Systems Engineer and Java Developer/Android Developer👋
 
 ## Github Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eVolaXx&theme=highcontrast)](https://git.io/streak-stats)
