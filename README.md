@@ -1,13 +1,6 @@
 ## Hi, I am Juan Carlos. Systems Engineer and Java Developer/Android Developer👋
 
-## Github Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eVolaXx&theme=highcontrast)](https://git.io/streak-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eVolaXx)](https://github.com/eVolaXx/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eVolaXx)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=eVolaXx&theme=dark&show_icons=true&hide_border=true&layout=compact)
+https://ghstats.dev/api/card?username=eVolaXx&theme=midnight
 
 
 <!--
