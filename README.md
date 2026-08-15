@@ -3,6 +3,12 @@
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=eVolaXx&theme=midnight)
 
 
+![Top Languages](https://ghstats.dev/api/langs?username=eVolaXx&theme=midnight)
+
+
+![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=eVolaXx&theme=midnight&days=30&width=320&height=80)
+
+
 <!--
 **eVolaXx/eVolaXx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
