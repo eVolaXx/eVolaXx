@@ -1,4 +1,3 @@
-## Hi, I am Juan Carlos. Systems Engineer and Java Developer/Android Developer👋
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=eVolaXx&theme=midnight)
 
