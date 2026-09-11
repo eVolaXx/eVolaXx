@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Juan Carlos 👋</h1>
-<h3 align="center">Mobile Developer | Java · Swift · Android</h3>
+<h3 align="center">Software Developer </h3>
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Focus-Mobile%20Development-1976D2?style=flat-square" /></a>
@@ -26,6 +26,9 @@
 [![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](#)
 [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
+[![iOS](https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white)](#)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
+
 
 **Tools & IDEs**
 
@@ -35,6 +38,16 @@
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](#)
 [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)](#)
+[![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor)](#)
+
+**🖥️ Operating System**
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+[![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
+[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#)
+[![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?logo=linuxmint&logoColor=fff)](#)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
 
 ---
 
