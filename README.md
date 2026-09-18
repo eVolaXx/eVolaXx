@@ -60,13 +60,5 @@
   <img src="https://ghstats.dev/api/langs?username=eVolaXx&theme=midnight" alt="Top Languages" />
 </p>
 
----
 
-<p align="center">
-  <i>Thanks for stopping by — feel free to explore my repos!</i>
-</p>
-
-**Donate**
-[![Revolut](https://img.shields.io/badge/Revolut-191C1F?logo=revolut&logoColor=fff)](#) 
-@juancanm3i
 
