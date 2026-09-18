@@ -9,12 +9,10 @@
 ---
 
 ### 👨‍💻 About me
-- 💻 5 Years Java Backend Developer
+- 💻 5 Years Java Backend Developer in Indra(minsait) Spain
 - 🔭 I'm currently working on **Java / Swift / Android** projects
 - 💻 Building a personal **full-stack application** and **IOS Projects** as a side project
-- 🌱 Currently deepening my skills in **iOS development** and **Python**
 - 🤝 Open to collaborating on mobile and full-stack projects
-- ⚡ Fun fact: I get the most done on weekends, when I have more time to code
 
 ---
 
