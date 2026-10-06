@@ -1,12 +1,3 @@
-<h1 align="center">Hi there, I'm Juan Carlos 👋</h1>
-<h3 align="center">Software Developer </h3>
-
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Focus-Mobile%20Development-1976D2?style=flat-square" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Open%20to-Collaboration-2ea44f?style=flat-square" /></a>
-</p>
-
----
 
 ### 👨‍💻 About me
 - 💻 5 Years Java Backend Developer at Indra Spain
