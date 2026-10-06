@@ -41,15 +41,4 @@
 ---
 
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://ghstats.dev/api/card?username=eVolaXx&theme=midnight" alt="GitHub Stats Card" />
-</p>
-
-<p align="center">
-  <img src="https://ghstats.dev/api/langs?username=eVolaXx&theme=midnight" alt="Top Languages" />
-</p>
-
-
 
